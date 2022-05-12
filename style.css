@@ -1,0 +1,5 @@
+.grid {
+    width: 400px;
+    height: 308px;             /* follow image size */ 
+    border: 1px solid black;
+}
